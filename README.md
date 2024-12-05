@@ -1,4 +1,3 @@
-```markdown
 # Snort 3 Installation Script
 
 This repository contains a comprehensive Bash script to automate the installation and configuration of **Snort 3.5.2.0** on Debian-based Linux systems. It includes downloading dependencies, setting up configuration files, and integrating community rules to streamline the setup process.
